@@ -1,1 +1,1 @@
-worker: python rekryto
+worker: python api:app
