@@ -1,1 +1,1 @@
-web: python api:app
+worker: manage.py
